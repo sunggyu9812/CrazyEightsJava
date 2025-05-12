@@ -36,10 +36,9 @@ A fully functional, AI-powered Crazy Eights card game built in Java to reinforce
 
 ## 🧠 Key Takeaways
 
-- Reinforces strong object-oriented design and modular architecture  
-- Demonstrates use of collections, game rule logic, and turn-based flow  
+- Reinforced practical application of object-oriented design in Java 
+- Implemented console-based AI logic for smooth game simulation
 - Includes testing and input validation to ensure stable execution  
-- Current version simulates computer player interactions; future updates may include human player interaction  
 
 ---
 
