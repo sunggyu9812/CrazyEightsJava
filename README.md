@@ -2,7 +2,6 @@
 
 A fully functional, AI-powered Crazy Eights card game built in Java to reinforce object-oriented programming and algorithmic design principles.
 
----
 
 ## 🔍 Project Summary
 
