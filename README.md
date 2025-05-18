@@ -33,24 +33,22 @@ A fully functional, AI-powered Crazy Eights card game built in Java to reinforce
 | `target/`           | Compiled outputs (auto-generated)                   |
 | `README.md`         | Project summary and setup instructions              |
 
----
-
 ## 🖼️ Gameplay Screenshots
 
-**Game Start**
-![Turn 1](images/turn_1.png)
+**Game Start**  
+![Turn 1](images/turn_1_resized.png)
 
-**Drawing Cards**
-![Turn 2](images/turn_2.png)
+**Drawing Cards**  
+![Turn 2](images/turn_2_resized.png)
 
-**Crazy Eight Played**
-![Turn 3](images/turn_3.png)
+**Crazy Eight Played**  
+![Turn 3](images/turn_3_resized.png)
 
-**Deck Reshuffled**
-![Turn 4](images/turn_4.png)
+**Deck Reshuffled**  
+![Turn 4](images/turn_4_resized.png)
 
-**Final Turn & Victory**
-![Turn 5](images/turn_5.png)
+**Final Turn & Victory**  
+![Turn 5](images/turn_5_resized.png)
 
 --
 
