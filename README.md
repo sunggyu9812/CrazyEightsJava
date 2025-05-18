@@ -36,19 +36,19 @@ A fully functional, AI-powered Crazy Eights card game built in Java to reinforce
 ## 🖼️ Gameplay Screenshots
 
 **Game Start**  
-<img src="images/turn_1_resized.png" width="600" style="border:1px solid #555; border-radius:10px; box-shadow:3px 3px 8px rgba(0,0,0,0.4);" />
+<img src="images/game_start.png" width="1000"/>
 
 **Drawing Cards**  
-<img src="images/turn_2_resized.png" width="600" style="border:1px solid #555; border-radius:10px; box-shadow:3px 3px 8px rgba(0,0,0,0.4);" />
+<img src="images/drawing_cards.png" width="1000"/>
 
-**Crazy Eight Played**  
-<img src="images/turn_3_resized.png" width="600" style="border:1px solid #555; border-radius:10px; box-shadow:3px 3px 8px rgba(0,0,0,0.4);" />
+**Crazy Eight Suit Change**  
+<img src="images/crazy_eight_switch.png" width="1000"/>
 
 **Deck Reshuffled**  
-<img src="images/turn_4_resized.png" width="600" style="border:1px solid #555; border-radius:10px; box-shadow:3px 3px 8px rgba(0,0,0,0.4);" />
+<img src="images/deck_reshuffle.png" width="1000"/>
 
-**Final Turn & Victory**  
-<img src="images/turn_5_resized.png" width="600" style="border:1px solid #555; border-radius:10px; box-shadow:3px 3px 8px rgba(0,0,0,0.4);" />
+**Game Finish**  
+<img src="images/game_finish.png" width="1000"/>
 
 ---
 
