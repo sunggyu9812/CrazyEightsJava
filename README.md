@@ -50,7 +50,7 @@ A fully functional, AI-powered Crazy Eights card game built in Java to reinforce
 **Final Turn & Victory**  
 ![Turn 5](images/turn_5_resized.png)
 
---
+---
 
 ## 🚀 Future Enhancements  
 - Add support for interactive human player input  
