@@ -28,19 +28,31 @@ A fully functional, AI-powered Crazy Eights card game built in Java to reinforce
 |---------------------|-----------------------------------------------------|
 | `src/main/java/`    | Core game logic (Card, Deck, Player, Game, etc.)    |
 | `src/test/java/`    | Unit tests for gameplay classes                     |
+| `images/`           | Screenshot Outputs of Gameplay                      |
 | `pom.xml`           | Maven project file                                  |
 | `target/`           | Compiled outputs (auto-generated)                   |
 | `README.md`         | Project summary and setup instructions              |
 
 ---
 
-## 🧠 Key Takeaways
+## 🖼️ Gameplay Screenshots
 
-- Reinforced practical application of object-oriented design in Java 
-- Implemented console-based AI logic for smooth game simulation
-- Includes testing and input validation to ensure stable execution  
+**Game Start**
+![Turn 1](images/turn_1.png)
 
----
+**Drawing Cards**
+![Turn 2](images/turn_2.png)
+
+**Crazy Eight Played**
+![Turn 3](images/turn_3.png)
+
+**Deck Reshuffled**
+![Turn 4](images/turn_4.png)
+
+**Final Turn & Victory**
+![Turn 5](images/turn_5.png)
+
+--
 
 ## 🚀 Future Enhancements  
 - Add support for interactive human player input  
